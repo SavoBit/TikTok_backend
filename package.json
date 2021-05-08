@@ -1,0 +1,25 @@
+{
+  "name": "tiktok_backend",
+  "version": "1.0.0",
+  "description": "TikTok Backend",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohmad012/TikTok_backend.git"
+  },
+  "author": "Mohmad Gamal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohmad012/TikTok_backend/issues"
+  },
+  "homepage": "https://github.com/Mohmad012/TikTok_backend#readme",
+  "dependencies": {
+    "express": "~4.17.1",
+    "mongoose": "~5.12.7"
+  }
+}
